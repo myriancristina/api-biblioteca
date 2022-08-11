@@ -1,0 +1,34 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "java (build)",
+      "paths": ["${workspace}"],
+      "isFullBuild": true,
+      "group": "build",
+      "problemMatcher": [],
+      "label": "java (build): Build Workspace",
+      "detail": "$(tools) Build all the Java projects in workspace."
+    },
+    {
+      "type": "java (buildArtifact)",
+      "mainClass": "com.teste.primeiroexemplo.PrimeiroExemploApplication",
+      "targetPath": "${workspaceFolder}/${workspaceFolderBasename}.jar",
+      "elements": ["${compileOutput}", "${dependencies}"],
+      "problemMatcher": [],
+      "label": "java (buildArtifact): ProjetoBackEnd"
+    },
+    {
+      "type": "java (buildArtifact)",
+      "mainClass": "com.teste.primeiroexemplo.PrimeiroExemploApplication",
+      "targetPath": "${workspaceFolder}/${workspaceFolderBasename}.jar",
+      "elements": ["${compileOutput}", "${dependencies}"],
+      "problemMatcher": [],
+      "label": "java (buildArtifact): ProjetoBackEnd",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    }
+  ]
+}
