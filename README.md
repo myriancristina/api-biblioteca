@@ -13,3 +13,5 @@ Neste projeto, foi criado um API Rest pelo VSCode, usado também o Insomnia, Pos
 
 Espero ainda fazer algumas mudanças e acrescentar mais detalhes, todo projeto funcionando perfeitamente, executado no terminal do próprio
 VSCode, corrigindo os erros encontrados, etc.
+
+https://github.com/myriancristina/api-biblioteca/issues/1
