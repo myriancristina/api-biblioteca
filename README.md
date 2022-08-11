@@ -18,3 +18,5 @@ VSCode, corrigindo os erros encontrados, etc.
 ![ParteDois](https://user-images.githubusercontent.com/73667019/184190360-f77cb930-de19-461c-af04-43bcaac3b8f6.png)
 ![ParteTrês](https://user-images.githubusercontent.com/73667019/184190373-5132ea3e-ae25-4e35-b2a1-15b4bf3c5ef6.png)
 ![ParteQuatro](https://user-images.githubusercontent.com/73667019/184190390-a676ac4e-076a-43fd-8579-844ee076df14.png)
+![ParteCinco](https://user-images.githubusercontent.com/73667019/184198360-b7b2d25b-1ec5-4d41-8202-1037eac723f7.png)
+
