@@ -1,0 +1,18 @@
+Objetivo do Projeto da Biblioteca Virtual:
+
+Developer: Myrian Cristina Silva
+Iniciado: 04/08/2022
+
+Criar uma API RESTFull para controle de livros na biblioteca virtual.
+
+Modelo: OK
+    Produtos: id, nome, autor, paginas, quantidade, valor, observação
+
+Repositório de Livros: OK
+    consultarTodos, consultarPorId, cadastrarLivro, atualizar, excluir
+
+Serviço da Biblioteca Virtual: OK
+    consultarTodos, consultarPorId, cadastrarLivro, atualizar, excluir
+
+Controller de Livros: OK
+    consultarTodos, consultarPorId, cadastrarLivro, atualizar, excluir
