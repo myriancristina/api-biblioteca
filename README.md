@@ -1,4 +1,6 @@
-# api-biblioteca
+# Biblioteca Virtual
+Desenvolvido por Myrian Cristina Silva
+
 # Projeto desenvolvido em API RestFull, na linguagem Java com SpringBoot, e Microserviços. 
 
 
